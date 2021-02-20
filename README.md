@@ -5,7 +5,7 @@ Using GitHub for research projects and teaching as well as private projects.
 
 [![Stephan Lukasczyk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephanlukasczyk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanlukasczyk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanlukasczyk&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on automated test generation for Python using [Pynguin](https://github.com/se2p/pynguin)
 - 💬 Website: [lukasczyk.me](https://www.lukasczyk.me)
