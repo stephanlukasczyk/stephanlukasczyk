@@ -3,8 +3,6 @@
 PhD student in computer science at the [University of Passau](https://www.uni-passau.de), Germany.
 Using GitHub for research projects and teaching as well as private projects.
 
-[![Stephan Lukasczyk's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephanlukasczyk&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 - 🔭 I’m currently working on automated test generation for Python using [Pynguin](https://github.com/se2p/pynguin)
   [![Pynguin Logo](https://raw.githubusercontent.com/se2p/pynguin/master/docs/source/_static/pynguin-logo.png)](https://github.com/se2p/pynguin)
 - 💬 Website: [lukasczyk.me](https://www.lukasczyk.me)
