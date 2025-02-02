@@ -1,6 +1,6 @@
 # Stephan Lukasczyk
 
-PhD student in computer science at the [University of Passau](https://www.uni-passau.de), Germany.
+Software Testing Researcher at [JetBrains Research](https://www.jetbrains.com/research/).
 Using GitHub for research projects and teaching as well as private projects.
 
 - 🔭 I’m currently working on automated test generation for Python using [Pynguin](https://github.com/se2p/pynguin)
