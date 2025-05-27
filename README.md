@@ -2,8 +2,9 @@
 
 Researcher at the [Software Testing Research team](https://lp.jetbrains.com/research/software-testing/) at [JetBrains Research](https://www.jetbrains.com/research/).
 Previously Research Assistant at the [Chair of Software Engineering II](https://www.fim.uni-passau.de/lehrstuhl-fuer-software-engineering-ii) at the [University of Passau](https://www.uni-passau.de), Germany.
+Treasurer of [DANTE e.V.](https://www.dante.de), the German-speaking TeX User Group.
 
-- 🔭 Interested in automated test generation, especially for Python.  Maintainer of [Pynguin](https://www.pynguin.eu).
+- 🔭 Interested in automated test generation, especially for Python.  Maintainer of [Pynguin](https://www.pynguin.eu).  LaTeX nerd.  Drummer and music nerd.
 - 💬 Website: [lukasczyk.name](https://www.lukasczyk.name)
 - 🐦 Mastodon: [@stephan@mastodon.acm.org](https://mastodon.acm.org/@stephan)
 - 🏛 My ORCID: [orcid.org/0000-0002-0092-3476](https://orcid.org/0000-0002-0092-3476)
