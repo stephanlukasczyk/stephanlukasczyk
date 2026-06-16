@@ -2,6 +2,10 @@
 
 > Researcher, nerd, music lover, dad
 
+**Note:** I am in the process of moving my personal projects to
+[Codeberg](https://codeberg.org/stephanlukasczyk), hence many things on this profile
+might not be up to date.
+
 In professional life, I am a researcher in the 
 [Software Testing Research team](https://lp.jetbrains.com/research/software-testing/) 
 at [JetBrains Research](https://jetbrains.com/research).  My research interests range
